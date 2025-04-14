@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Fuad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Tech ethusiast from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammed-fuad" alt="muhammed-fuad" /></a> </p>
 
